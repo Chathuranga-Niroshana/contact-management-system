@@ -1,14 +1,9 @@
 {
     "contacts": [
         {
-            "name": "Chathuranga",
+            "name": "abc",
             "age": 26,
-            "email": "niroshana.c.n.j@gamil.com"
-        },
-        {
-            "name": "niro",
-            "age": "221",
-            "email": "jnwjd"
+            "email": "abc@gamil.com"
         }
     ]
 }
